@@ -1,4 +1,4 @@
 ## Tarea tipo examen XML
 
 
-[Tare tipo examen](Document1)
+[Tarea tipo examen](tipo_examen.xml)
