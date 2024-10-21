@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Carta del restaurante "Grande es el Capitán" -->
+
+<menu>
+    <restaurante nombre="Grande es el Capitán">
+        <telefonos>
+            <telefono>678123456</telefono>
+            <telefono>957224466</telefono>
+            <telefono>957987654</telefono>
+        </telefonos>
+    </restaurante>
+
+    <plato tipo="primer plato">
+        <nombre>Croquetas de jamón ibérico</nombre>
+        <alergenos>
+            <alergeno>Gluten</alergeno>
+            <alergeno>Huevos</alergeno>
+            <alergeno>Lácteos</alergeno>
+        </alergenos>
+        <precios>
+            <precio tipo="media ración">8</precio>
+            <precio tipo="ración completa">11</precio>
+        </precios>
+        <valorEnergetico>
+            <cantidad>149</cantidad>
+            <unidad>Kcal</unidad>
+            <porcion>1 croqueta (85 gramos)</porcion>
+        </valorEnergetico>
+    </plato>
+
+    <plato tipo="segundo plato">
+        <nombre>Gazpacho andaluz</nombre>
+        <alergenos>
+            <alergeno>Gluten</alergeno>
+        </alergenos>
+        <precios>
+            <precio tipo="vaso (250 ml)">6</precio>
+        </precios>
+        <valorEnergetico>
+            <cantidad>63</cantidad>
+            <unidad>Kcal</unidad>
+            <porcion>100 gramos</porcion>
+        </valorEnergetico>
+    </plato>
+
+    <plato tipo="tercer plato">
+        <nombre>Rabo de toro</nombre>
+        <alergenos>
+            <alergeno>Gluten</alergeno>
+            <alergeno>Lácteos</alergeno>
+            <alergeno>Sulfitos</alergeno>
+        </alergenos>
+        <precios>
+            <precio tipo="ración completa">13</precio>
+        </precios>
+        <valorEnergetico>
+            <cantidad>217</cantidad>
+            <unidad>Kcal</unidad>
+            <porcion>100 gramos</porcion>
+        </valorEnergetico>
+    </plato>
+
+    <!-- Elemento vacío con comentario "vacío" -->
+    <comentario></comentario>
+</menu>
+

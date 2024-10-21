@@ -1,2 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2wU6us-7)
-TIPO examen 
+# Examen DAW - XML de Restaurante
+
+Este repositorio contiene un documento XML que estructura los platos del restaurante "Grande es el Capitán". Los datos han sido diseñados utilizando las indicaciones del examen para crear un documento XML bien formado y lógico.
+
+[EXAMEN.md](EXAMEN.MD)
